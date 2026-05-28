@@ -79,7 +79,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_c2hKSVcvEfGsprurU7NZgA" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_c2hKSlcvEfGsprurU7NZgA" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_2p5EuVczEfGsprurU7NZgA">
-            <targetForm xmi:type="expression:Expression" xmi:id="_2p5EulczEfGsprurU7NZgA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_2p5EulczEfGsprurU7NZgA" name="validarSolicitudVacaciones" content="f922cc94-d7aa-47b7-94a3-146fa3a55b19" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_2p5EuFczEfGsprurU7NZgA">
             <inputs xmi:type="process:ContractInput" xmi:id="_KzkIsFc0EfGsprurU7NZgA" name="solicitudInput" type="COMPLEX" dataReference="solicitud" createMode="false">
@@ -95,7 +95,7 @@
         </defaultValue>
       </data>
       <formMapping xmi:type="process:FormMapping" xmi:id="_c2hKS1cvEfGsprurU7NZgA">
-        <targetForm xmi:type="expression:Expression" xmi:id="_itmcwFcwEfGsprurU7NZgA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+        <targetForm xmi:type="expression:Expression" xmi:id="_mRSOYFovEfGPafKXJejv9A" name="ingresarSolicitudVacaciones" content="bd9e9dee-4d3c-41a5-8b87-329a135dd481" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
       </formMapping>
       <overviewFormMapping xmi:type="process:FormMapping" xmi:id="_c2hKTVcvEfGsprurU7NZgA">
         <targetForm xmi:type="expression:Expression" xmi:id="_c2hKTlcvEfGsprurU7NZgA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
