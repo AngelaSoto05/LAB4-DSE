@@ -1,6 +1,6 @@
 #FileLock
-#Wed May 27 19:36:23 COT 2026
-server=192.168.100.3\:56543
+#Wed May 27 21:23:15 COT 2026
+server=192.168.100.3\:53335
 hostName=LAPTOP-KH2II8QM
 method=file
-id=19e6c02cef229bf7b5ab497cb44d497bf45ee1d66a8
+id=19e6c64a3ceb1957fbeac32d8465381bae23e4e9cd2
