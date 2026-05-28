@@ -1,0 +1,39 @@
+{
+  "id" : "ingresarSolicitudVacaciones",
+  "name" : "ingresarSolicitudVacaciones",
+  "type" : "fragment",
+  "modelVersion" : "2.6",
+  "lastUpdate" : 1779985454230,
+  "rows" : [
+    [
+      {
+        "type" : "fragment",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          }
+        },
+        "reference" : "5fda9352-5d5f-4b03-9c9c-324f9e565c93",
+        "hasValidationError" : false,
+        "id" : "nuevaSolicitudVacacionesFragmento",
+        "binding" : { }
+      }
+    ]
+  ],
+  "variables" : { },
+  "assets" : [ ],
+  "inactiveAssets" : [ ],
+  "webResources" : [ ],
+  "hasValidationError" : false
+}
